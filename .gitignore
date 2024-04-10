@@ -1,0 +1,8 @@
+*.tmp
+*.log
+venv/
+.idea/
+.vscode/
+*.pyc
+config.json
+secrets.txtgi
